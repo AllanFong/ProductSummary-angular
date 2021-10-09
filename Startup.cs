@@ -11,7 +11,6 @@ namespace Summaries
 {
     public class Startup
     {
-        //Test 1
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
