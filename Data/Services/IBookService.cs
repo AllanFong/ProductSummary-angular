@@ -11,6 +11,7 @@ namespace Summaries.Data.Services
         List<Book> GetAllBook();
         Book GetBookById(int id);
 
+        //Servive commit one
         void UpdateBook(int id, Book newBook);
 
         void DeleteBook(int id);
